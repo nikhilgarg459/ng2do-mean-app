@@ -1,0 +1,28 @@
+{
+  "name": "ng2do-mean-app",
+  "version": "0.1.0",
+  "description": "Developing a MEAN app with Angular 2.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilgarg459/ng2do-mean-app.git"
+  },
+  "author": "Nikhil Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilgarg459/ng2do-mean-app/issues"
+  },
+  "homepage": "https://github.com/nikhilgarg459/ng2do-mean-app#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongojs": "^2.4.0",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7"
+  }
+}
